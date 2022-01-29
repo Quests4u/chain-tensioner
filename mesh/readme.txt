@@ -1,1 +1,0 @@
-meshed parts from contruct
