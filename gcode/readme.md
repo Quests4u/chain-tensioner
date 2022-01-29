@@ -1,1 +1,4 @@
-# gcoded parts from contruct
+# gcode [NCprint]
+<pre>
+gcoded parts from contruct
+</pre>
